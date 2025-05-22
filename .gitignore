@@ -1,0 +1,17 @@
+# 📂 Dossiers système inutiles
+.DS_Store
+Thumbs.db
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 📓 Notebooks
+.ipynb_checkpoints/
+
+# 🧪 Environnements virtuels
+.env
+.venv/
+env/
+venv/
